@@ -8,7 +8,7 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icons/*.png'],
       manifest: {
-        id: './',
+        id: '/tabi-no-mochimono/',
         name: '旅の持ち物',
         short_name: '持ち物',
         description: '旅行の持ち物チェックリスト。テンプレート付き。無料・広告なし・ログイン不要・オフライン。',
