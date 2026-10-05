@@ -91,7 +91,7 @@ const ja: Dict = {
 };
 
 const en: Dict = {
-  appTitle: 'Packing List',
+  appTitle: 'Trip Packing',
   appSub: 'Never forget a thing',
   myLists: 'My lists',
   newList: 'New list',
